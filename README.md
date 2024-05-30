@@ -11,35 +11,49 @@ This Power BI project focuses on analyzing customer churn for a telecommunicatio
 * Financial Insights: Visualization of churn by total charges and monthly charges.
 
 ## Visualization
+1.Total Customers,churned customers and churn rate:1869 customers churned or leave the company from a total of 7032 customers, hence churn rate of a company is pretty high as it is over 20% (26.58%)
+
+<img width="302" alt="Total_customers_churned_customers_churned_rate" src="https://github.com/Akshadakambale/akshada/assets/166009612/68637877-e0a2-4d11-bb0f-a9b4719c66bb">
+
 1.Count of CustomerID by Churn: Pie chart showing the proportion of customers who churned vs. those who did not.
-<img src="C:\Users\hp\Pictures\customer_churned_analysis\Screenshot 2024-05-29 171804.png">
+
+<img width="118" alt="count_of_customerID_by_churn" src="https://github.com/Akshadakambale/akshada/assets/166009612/c949652d-683a-4593-bbcc-3bc78300ef70">
 
 2.Number of Total Customers by SeniorCitizen and Churn: Bar chart illustrating the churn rate among senior citizens compared to non-senior citizens.
 
+<img width="158" alt="total_customers_by_seniorcitizen_and_churn" src="https://github.com/Akshadakambale/akshada/assets/166009612/5dbe1403-845f-46ae-9034-2c2438afc263">
 
 3.Number of Total Customers by PhoneService and Churn: Bar chart showing churn rates among customers with and without phone service.
 
+<img width="187" alt="total_customers_by_phoneservice_and_churn" src="https://github.com/Akshadakambale/akshada/assets/166009612/1b995c4e-7eeb-4d83-8db1-d4695e75311e">
 
 4.Number of Total Customers by Gender and Churn: Bar chart displaying churn rates for male and female customers.
 
+<img width="122" alt="total_customers_by_gender_and_churn" src="https://github.com/Akshadakambale/akshada/assets/166009612/27d08fb6-1a9e-4cb2-83df-917a0bb7c3dd">
 
 5.Count of CustomerID by PaymentMethod: Donut chart depicting the distribution of different payment methods among customers.
 
+<img width="206" alt="count_of_customerID_by_paymentmethod" src="https://github.com/Akshadakambale/akshada/assets/166009612/b0d27b71-daba-4fae-9cdb-ee14f11b8a63">
 
 6.Number of Total Customers by Contract: Bar chart showing churn rates for different contract types (Month-to-month, One year, Two years).
 
+<img width="114" alt="total_customers_by_contract" src="https://github.com/Akshadakambale/akshada/assets/166009612/224057f2-e0fe-4822-a558-f7b16b9d4559">
 
 7.Number of Total Customers by TotalCharges: Line chart showing the relationship between total charges and churn.
 
+<img width="236" alt="total_customers_by_totalcharges" src="https://github.com/Akshadakambale/akshada/assets/166009612/14e2e57f-4d36-47e2-a228-2dbad1950cdc">
 
 8.Average Tenure by Churn: Bar chart comparing the average tenure of churned and non-churned customers.
 
+<img width="119" alt="average_tenure_by_churn" src="https://github.com/Akshadakambale/akshada/assets/166009612/e8d06eb5-eaee-4954-adc8-810d4d7d9113">
 
 9.Number of Total Customers by InternetService and Churn: Bar chart illustrating churn rates based on the type of internet service (Fiber optic, DSL, No internet service).
 
+<img width="213" alt="total_customers_by_internetservice_and_churn" src="https://github.com/Akshadakambale/akshada/assets/166009612/18060864-c62e-4f30-8468-8c4cbeeb63a8">
 
 10.Churned Customers by MonthlyCharges: Line chart showing the distribution of monthly charges among churned customers.
 
+<img width="260" alt="churned_customers_by_monthlycharges" src="https://github.com/Akshadakambale/akshada/assets/166009612/be7d483a-2c1f-4aa6-a58b-222e3ef8af2f">
 
 ## Data Sources
 Customer Data: Information on customer demographics, service usage, payment methods, and financials.
