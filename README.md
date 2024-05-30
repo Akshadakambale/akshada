@@ -63,6 +63,17 @@ git clone https://github.com/yourusername/your-repo-name.git
 ├── data
 │   ├── raw                   # Raw data files
 │   ├── processed             # Processed data files
+├── images                    # Image files for README
+│   ├── count_of_customerID_by_churn.png
+│   ├── total_customers_by_seniorcitizen_and_churn.png
+│   ├── total_customers_by_phoneservice_and_churn.png
+│   ├── total_customers_by_gender_and_churn.png
+│   ├── count_of_customerID_by_paymentmethod.png
+│   ├── total_customers_by_contract.png
+│   ├── total_customers_by_totalcharges.png
+│   ├── average_tenure_by_churn.png
+│   ├── total_customers_by_internetservice_and_churn.png
+│   ├── churned_customers_by_monthlycharges.png
 ├── reports
 │   ├── churn_analysis.pbix   # Power BI report file
 ├── README.md                 # This README file
