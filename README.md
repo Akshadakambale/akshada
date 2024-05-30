@@ -11,7 +11,7 @@ This Power BI project focuses on analyzing customer churn for a telecommunicatio
 * Financial Insights: Visualization of churn by total charges and monthly charges.
 
 ## Visualization
-1.Total Customers,churned customers and churn rate:1869 customers churned or leave the company from a total of 7032 customers, hence churn rate of a company is pretty high as it is over 20% (26.58%)
+1.Total Customers,churned customers and churn rate: 1869 customers churned or leave the company from a total of 7032 customers, hence churn rate of a company is pretty high as it is over 20% (26.58%)
 
 <img width="302" alt="Total_customers_churned_customers_churned_rate" src="https://github.com/Akshadakambale/akshada/assets/166009612/68637877-e0a2-4d11-bb0f-a9b4719c66bb">
 
@@ -55,6 +55,10 @@ This Power BI project focuses on analyzing customer churn for a telecommunicatio
 
 <img width="260" alt="churned_customers_by_monthlycharges" src="https://github.com/Akshadakambale/akshada/assets/166009612/be7d483a-2c1f-4aa6-a58b-222e3ef8af2f">
 
+## Customer churn analysis Report:
+
+<img width="602" alt="Customer_churn_analysis_report" src="https://github.com/Akshadakambale/akshada/assets/166009612/ed1f21fd-8053-47dd-8db4-e94e20693707">
+
 ## Data Sources
 Customer Data: Information on customer demographics, service usage, payment methods, and financials.
 
@@ -78,6 +82,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 │   ├── raw                   # Raw data files
 │   ├── processed             # Processed data files
 ├── images                    # Image files for README
+│   ├── Total_customers_churned_customers_churned_rate.png
 │   ├── count_of_customerID_by_churn.png
 │   ├── total_customers_by_seniorcitizen_and_churn.png
 │   ├── total_customers_by_phoneservice_and_churn.png
