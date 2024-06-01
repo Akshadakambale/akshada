@@ -62,18 +62,4 @@ This Power BI project focuses on analyzing customer churn for a telecommunicatio
 ## Data Sources
 Customer Data: Information on customer demographics, service usage, payment methods, and financials.
 
-## Installation
-1.Clone the repository to your local machine:
-git clone https://github.com/yourusername/your-repo-name.git
-
-2.Open the Power BI Desktop application.
-
-3.Open the .pbix file located in the cloned repository.
-
-4.Ensure that the data sources are properly connected. You may need to update the data source paths or credentials.
-
-## Usage
-- Open the Power BI file (.pbix).
-- Interact with the dashboard using the filters and slicers to explore different dimensions of the data.
-- Use the refresh button in Power BI Desktop to update the data.
 
